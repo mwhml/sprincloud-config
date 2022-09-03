@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="435e2c9c-827d-4f01-a376-7d99e1cc9f95" name="Changes" comment="" />
+    <list default="true" id="435e2c9c-827d-4f01-a376-7d99e1cc9f95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-prod.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2EC1wk4RfFSMK9QOn9tjbyBZBRS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662084993150</updated>
       <workItem from="1662084996093" duration="771000" />
+      <workItem from="1662206652375" duration="724000" />
     </task>
     <servers />
   </component>
@@ -52,5 +60,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
